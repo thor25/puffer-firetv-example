@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kidGodzilla/puffer-firetv-example.git"
+    "url": "git+https://github.com/thor25/puffer-firetv-example.git"
   },
   "keywords": [
     "fire",
@@ -21,12 +21,12 @@
     "tv",
     "streaming"
   ],
-  "author": "James Futhey <futhey@gmail.com> (http://jamesfuthey.com/)",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kidGodzilla/puffer-firetv-example/issues"
+    "url": "https://github.com/thor25/puffer-firetv-example/issues"
   },
-  "homepage": "https://github.com/kidGodzilla/puffer-firetv-example#readme",
+  "homepage": "https://github.com/thor25/puffer-firetv-example#readme",
   "dependencies": {
     "serve": "^11.1.0"
   }
